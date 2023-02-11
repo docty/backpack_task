@@ -5,9 +5,9 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# [BackPack Project]
 
-[_Add a brief description of your project here._]
+[This is a simple backpack application to setup a backpack application]
 
 ## npm script commands
 
